@@ -1,0 +1,9 @@
+javaSeleniumAcademy\tests\StanAloneTEst.class
+javaSeleniumAcademy\tests\SubmitOrderTests.class
+javaSeleniumAcademy\TestComponents\Retry.class
+javaSeleniumAcademy\TestComponents\BasePage.class
+javaSeleniumAcademy\TestComponents\BasePage$1.class
+javaSeleniumAcademy\data\DataReader.class
+javaSeleniumAcademy\TestComponents\Listeners.class
+javaSeleniumAcademy\data\DataReader$1.class
+javaSeleniumAcademy\tests\ErrorValidationsTests.class

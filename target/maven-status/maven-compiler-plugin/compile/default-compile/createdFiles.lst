@@ -1,0 +1,7 @@
+javaSeleniumAcademy\Resources\ExtendReportNG.class
+javaSeleniumAcademy\pageObjects\CartPage.class
+javaSeleniumAcademy\pageObjects\ConfirmationPage.class
+javaSeleniumAcademy\pageObjects\CheckoutPage.class
+javaSeleniumAcademy\pageObjects\LandingPage.class
+javaSeleniumAcademy\Utility\Utility.class
+javaSeleniumAcademy\pageObjects\ProductCatalogPage.class
