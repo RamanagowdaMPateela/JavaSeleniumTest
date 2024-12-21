@@ -1,5 +1,5 @@
 @TestErrorScenario
-Feature: Login Error Validation
+Feature: Login Error Validation feature
   As a user
   I want to see an error message when I enter incorrect credentials
   So that I know the login attempt was unsuccessful
